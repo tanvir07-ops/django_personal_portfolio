@@ -1,0 +1,1 @@
+$('h1').slideUp(1000).slideDown(1000)
